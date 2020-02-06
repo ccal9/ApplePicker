@@ -371,5 +371,11 @@ PrefabInstance:
       propertyPath: speed
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 3376146962472272046, guid: 69b06e0ad7e7c51489264a9c2a0ded2d,
+        type: 3}
+      propertyPath: applePrefab
+      value: 
+      objectReference: {fileID: 2698990239311887748, guid: df2a046a03fde9744b306309abc4f013,
+        type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 69b06e0ad7e7c51489264a9c2a0ded2d, type: 3}
