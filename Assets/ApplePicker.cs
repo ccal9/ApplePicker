@@ -39,7 +39,7 @@ public class ApplePicker : MonoBehaviour
         Destroy(tBasketGo);
         if(basketList.Count == 0)
         {
-            SceneManager.LoadScene("_Scene_0");
+            SceneManager.LoadScene( "ApplePicker" );
         }
     }
     // Update is called once per frame
